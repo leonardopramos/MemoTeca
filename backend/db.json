@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Em meio ao caos do cotidiano, a mente vagueia como uma borboleta errante. Pensamentos dançam, livres e imprevisíveis, como folhas ao vento. Em um instante, a contemplação se perde nas esquinas do absurdo, criando um mosaico de ideias efêmeras. Cada pensamento é uma faísca fugaz, iluminando o vasto universo da mente antes de desaparecer na escuridão do esquecimento.",
+      "autoria": "Chat GPT",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Entre as páginas do tempo, a memória tece a tapeçaria da existência. Lembranças são fios entrelaçados, formando padrões únicos. Na tessitura da vida, cada experiência contribui para a riqueza do tecido que somos.",
+      "autoria": "Chat GPT",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Na encruzilhada dos destinos, escolhas são estrelas cadentes traçando caminhos no céu da possibilidade. O futuro se revela no brilho fugaz dessas decisões, e a jornada da vida se desenha em constelações únicas.",
+      "autoria": "Chat GPT",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Seremos donos do nosso amanhã se estivermos unidos, em sintonia com os nossos sonhos, mesmos se não fomos iguais, pois não somos iguais eu.",
+      "autoria": "Charlie Brown Jr.",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Gite it away Gite it away Gite it away now, Gite it away Gite it away Gite it away now",
+      "autoria": "Red Hot Chilli Peppers",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
+}
