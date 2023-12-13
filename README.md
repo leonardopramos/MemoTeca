@@ -24,3 +24,30 @@ Se houver alguma oportunidade interessante, ficarei muito feliz em discutir como
 **Contato:** leonardopreczevskiramos@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/leonardo-preczevski-733501215/
+
+# Memoteca (English Version)
+
+This project, named Memoteca, was developed as part of the Alura course titled "Angular 14: Apply Concepts and Develop Your First CRUD." I applied the knowledge acquired during the course to create this application, employing technologies such as Angular, TypeScript, HTML, CSS, among others.
+
+## Technologies Used
+
+- **Framework:** [Angular](https://angular.io/)
+- **Language:** TypeScript
+- **Markup:** HTML
+- **Styling:** CSS
+
+## Objective
+
+The main objective of this application is to apply fundamental Angular concepts, especially those related to creating and manipulating data through a CRUD (Create, Read, Update, Delete). Memoteca serves as a practical example of the learning obtained in the Alura course.
+
+## About the Developer
+
+Currently, I am a university student and am seeking an internship opportunity to enhance my practical skills. Developing projects like Memoteca has allowed me to apply theoretical knowledge in a real-world context.
+
+If there is any interesting opportunity, I would be delighted to discuss how I can contribute to your team. I am open to challenges and committed to continuous learning.
+
+**Developer:** Leonardo Preczevski Ramos
+
+**Contact:** leonardopreczevskiramos@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/leonardo-preczevski-733501215/
